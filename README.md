@@ -1,8 +1,11 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 
 ### :man_technologist: About Me :
-- :seedling: Exploring Technical World. <a href="https://solved.ac/psh1514"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=s2770853"/></a>
-- :zap: Steadily Making Progress in My Repo.
+- :seedling: Exploring Technical World.
+- :zap: Steadily Making Progress in My Repo.<br>
+<br>
+<a href="https://solved.ac/s2770853"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=s2770853"/></a>
+
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
