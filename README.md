@@ -2,10 +2,10 @@
 
 ### :man_technologist: About Me :
 - :seedling: Exploring Technical World.
-- :zap: Steadily Making Progress in My Repo.<br>
-<br>
+- :zap: Steadily Making Progress in My Repo.
+<div align=right>
 <a href="https://solved.ac/s2770853"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=s2770853"/></a>
-
+</div>
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
