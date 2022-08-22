@@ -3,6 +3,7 @@
 ### :man_technologist: About Me :
 - :seedling: Exploring Technical World.
 - :zap: Steadily Making Progress in My Repo.
+- :mailbox: How to reach me : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=social&logo=Gmail&logoColor=red&link=s2770853@gmail.com)](mailto:s2770853@gmail.com)
 <div align=right>
 <a href="https://solved.ac/s2770853"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=s2770853"/></a>
 </div>
@@ -20,11 +21,10 @@
 </div>
 
 ---
-<div>
-  <img src="https://komarev.com/ghpvc/?username=Song-d-s&style=for-the-badge&color=blue" alt=""/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Song-d-s&style=flat-square&color=blue" alt=""/>
 </div>
-
-
 <!--
 **Song-d-s/Song-d-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
