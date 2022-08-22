@@ -1,14 +1,17 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 
+#
+
 ### :man_technologist: About Me :
 - :seedling: Exploring Technical World.
 - :zap: Steadily Making Progress in My Repo.
-- :mailbox: How to reach me : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=social&logo=Gmail&logoColor=red&link=s2770853@gmail.com)](mailto:s2770853@gmail.com)
+
 <div align=right>
-<a href="https://solved.ac/s2770853"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=s2770853"/></a>
+  <a href="mailto:s2770853@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=social&logo=Gmail&logoColor=red&link=s2770853@gmail.com"/></a>
 </div>
 
----
+#
+
 ### :hammer_and_wrench: Languages and Tools :
 <div id='badges' align='left'>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/><br>
@@ -22,9 +25,11 @@
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Song-d-s&style=flat-square&color=blue" alt=""/>
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Song-d-s&style=flat&color=blue" alt=""/>
+  <a href="https://solved.ac/s2770853"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=s2770853"/></a>
 </div>
+
 <!--
 **Song-d-s/Song-d-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
